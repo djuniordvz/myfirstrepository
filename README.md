@@ -2,7 +2,7 @@
 
 For run this code use the comand
 ```
-if(var== 1){
-  try = 1
+se(var== 1){
+  teste = 1
 }
 ```
