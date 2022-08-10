@@ -2,7 +2,5 @@
 
 For run this code use the comand
 ```
-se(var== 1){
-  teste = 1
-}
+node app.js
 ```
